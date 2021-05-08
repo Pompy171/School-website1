@@ -1,0 +1,53 @@
+.mark_1{
+    font-size: 40px;
+    color: aqua;
+    font-family: fantasy;
+}
+html{
+    text-align: center;
+    scroll-behavior: smooth;
+}
+span div{
+    
+    margin-right: 250px;
+}
+span img{
+    
+    margin-top: 0px;
+}
+#contacts{
+    
+    font-size: 25px;
+}
+h6{
+    font-size: 10px;
+}
+h7{
+    font-size: 20px;
+    font-weight: bold;
+}
+h5{
+    color:black;
+}
+.achivments i{
+    float: right;
+    padding-right: 5px;
+}
+#heading{
+font-size: 20px;
+}
+h5{
+ font-size:20px;
+}
+.alumuni img {
+    height:500px;
+}
+
+
+#covid{
+    height: 300px;
+    width: 450px;
+}
+
+
+
